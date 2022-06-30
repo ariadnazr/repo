@@ -1,0 +1,28 @@
+{
+    "listOptions":[
+      {
+        "codigo": 1, 
+        "nombre":"thisName",
+        "time":"aboutThis",
+        "costo":"primary",
+        "beneficios":"#whatever",
+        "otros":"xd"
+    },
+      { 
+        "codigo": 2, 
+        "nombre":"otherName",
+        "time":"aboutOther",
+        "costo":"primary",
+        "beneficios":"#whatever",
+        "otros":"xd"
+    },
+      { 
+        "codigo": 3, 
+        "nombre":"mission",
+        "time":"Mission Statement",
+        "costo":"secondary",
+        "beneficios":"#mission",
+        "otros":"xd"
+    }
+      ]
+}
