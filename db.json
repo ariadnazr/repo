@@ -1,28 +1,44 @@
 {
     "listOptions":[
       {
-        "codigo": 1, 
-        "nombre":"thisName",
-        "time":"aboutThis",
-        "costo":"primary",
-        "beneficios":"#whatever",
-        "otros":"xd"
+        "codigo": 134340, 
+        "nombre":"Begin",
+        "time":" 1 Mes",
+        "costo":" $25",
+        "beneficios":"acompañamiento para iniciar en el mundo del deporte con los mejores entrenadores.",
+        "otros":"acceso a piscina no incluído"
     },
       { 
-        "codigo": 2, 
-        "nombre":"otherName",
-        "time":"aboutOther",
-        "costo":"primary",
-        "beneficios":"#whatever",
-        "otros":"xd"
+        "codigo": 130613, 
+        "nombre":"Anpanman",
+        "time":"3 Meses",
+        "costo":"$65",
+        "beneficios":"Acceso a gimnasio, canchas y piscina.",
+        "otros":"entrenadores no incluídos."
     },
       { 
-        "codigo": 3, 
-        "nombre":"mission",
-        "time":"Mission Statement",
-        "costo":"secondary",
-        "beneficios":"#mission",
-        "otros":"xd"
+        "codigo": 490348, 
+        "nombre":"Whalien",
+        "time":"6 Meses",
+        "costo":"$120",
+        "beneficios":"Acceso a gimnasio, canchas y piscina, acompañamiento de entrenadores.",
+        "otros":"Plan de comida no incluído"
+    },
+      { 
+        "codigo": 100001, 
+        "nombre":"Attack",
+        "time":"6 Meses",
+        "costo":"$150",
+        "beneficios":"Acceso a gimnasio, canchas y piscina, acompañamiento de entrenadores,plan de comidas",
+        "otros":"."
+    },
+      { 
+        "codigo": 120994, 
+        "nombre":"Dionysus",
+        "time":"1 Año",
+        "costo":"$200",
+        "beneficios":"Acceso completo a todas las instalaciones, acompañamiento de entrenadores, plan de comidas.",
+        "otros":"."
     }
       ]
 }
