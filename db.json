@@ -1,7 +1,7 @@
 {
     "listOptions":[
       {
-        "codigo": 134340, 
+        "id": 134340, 
         "nombre":"Begin",
         "time":" 1 Mes",
         "costo":" $25",
@@ -9,7 +9,7 @@
         "otros":"acceso a piscina no incluído"
     },
       { 
-        "codigo": 130613, 
+        "id": 130613, 
         "nombre":"Anpanman",
         "time":"3 Meses",
         "costo":"$65",
@@ -17,7 +17,7 @@
         "otros":"entrenadores no incluídos."
     },
       { 
-        "codigo": 490348, 
+        "id": 490348, 
         "nombre":"Whalien",
         "time":"6 Meses",
         "costo":"$120",
@@ -25,7 +25,7 @@
         "otros":"Plan de comida no incluído"
     },
       { 
-        "codigo": 100001, 
+        "id": 100001, 
         "nombre":"Attack",
         "time":"6 Meses",
         "costo":"$150",
@@ -33,7 +33,7 @@
         "otros":"."
     },
       { 
-        "codigo": 120994, 
+        "id": 120994, 
         "nombre":"Dionysus",
         "time":"1 Año",
         "costo":"$200",
